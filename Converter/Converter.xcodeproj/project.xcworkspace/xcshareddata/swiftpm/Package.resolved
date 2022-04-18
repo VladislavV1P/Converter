@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "6eeff3c57e02f07c8494433aed8bf90532010089"
+      }
+    },
+    {
+      "identity" : "swiftyjson",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwiftyJSON/SwiftyJSON.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "b3dcd7dbd0d488e1a7077cb33b00f2083e382f07"
+      }
+    }
+  ],
+  "version" : 2
+}
